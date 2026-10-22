@@ -30,7 +30,9 @@
   ],
   "diagrams": [
     "account-flow.svg",
-    "account-flow-mobile.svg"
+    "account-flow-mobile.svg",
+    "account-flow-zh-CN.svg",
+    "account-flow-mobile-zh-CN.svg"
   ],
   "diagram_origin": "Project-authored vector illustrations"
 }

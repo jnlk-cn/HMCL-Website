@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="820" viewBox="0 0 560 820" role="img" aria-labelledby="title description">
+  <title id="title">每次启动游戏前验证微软账户与游戏资格</title>
+  <desc id="description">微软账户登录、验证 Java 版游戏资格及匹配角色，然后启动游戏。任何必要验证失败时都会停止启动。</desc>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="m1 1 4 3-4 3" fill="none" stroke="#818bb9" stroke-width="1.5"/></marker></defs>
+  <rect width="560" height="820" fill="#f6f7fc"/>
+  <g font-family="Segoe UI,Microsoft YaHei,Arial,sans-serif">
+    <text x="32" y="39" fill="#505bb5" font-size="18" letter-spacing="1.5" font-weight="600">每次启动游戏前</text>
+    <g fill="#fff" stroke="#d9deee"><rect x="32" y="70" width="496" height="164" rx="14"/><rect x="32" y="286" width="496" height="164" rx="14"/><rect x="32" y="502" width="496" height="164" rx="14"/></g>
+    <g fill="none" stroke="#818bb9" stroke-width="2" marker-end="url(#arrow)"><path d="M280 243v31"/><path d="M280 459v31"/></g>
+    <g fill="#505bb5" font-size="17" font-weight="600"><text x="58" y="107">01 / 登录</text><text x="58" y="323">02 / 验证</text><text x="58" y="539">03 / 启动</text></g>
+    <g fill="#202434" font-size="30" font-weight="600"><text x="58" y="151">微软账户</text><text x="58" y="367">Java 版游戏资格</text><text x="58" y="583">启动 Minecraft</text></g>
+    <g fill="#606677" font-size="23"><text x="58" y="190">官方 OAuth、Xbox / XSTS</text><text x="58" y="406">有效游戏资格与匹配角色</text><text x="58" y="622">所需验证全部通过后启动</text></g>
+    <text x="32" y="725" fill="#606677" font-size="23">每次启动均会重新验证。</text><text x="32" y="766" fill="#606677" font-size="22">必要验证失败时停止启动。</text>
+  </g>
+</svg>
