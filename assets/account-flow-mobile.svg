@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="820" viewBox="0 0 560 820" role="img" aria-labelledby="title description">
+  <title id="title">Microsoft account verification before every game launch</title>
+  <desc id="description">Microsoft account sign-in, Java Edition ownership and matching profile verification, then game launch. A failed required check stops the launch.</desc>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="m1 1 4 3-4 3" fill="none" stroke="#818bb9" stroke-width="1.5"/></marker></defs>
+  <rect width="560" height="820" fill="#f6f7fc"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="32" y="39" fill="#505bb5" font-size="18" letter-spacing="1.5" font-weight="600">BEFORE EVERY GAME LAUNCH</text>
+    <g fill="#fff" stroke="#d9deee"><rect x="32" y="70" width="496" height="164" rx="14"/><rect x="32" y="286" width="496" height="164" rx="14"/><rect x="32" y="502" width="496" height="164" rx="14"/></g>
+    <g fill="none" stroke="#818bb9" stroke-width="2" marker-end="url(#arrow)"><path d="M280 243v31"/><path d="M280 459v31"/></g>
+    <g fill="#505bb5" font-size="17" font-weight="600"><text x="58" y="107">01 / SIGN IN</text><text x="58" y="323">02 / VERIFY</text><text x="58" y="539">03 / PLAY</text></g>
+    <g fill="#202434" font-size="30" font-weight="600"><text x="58" y="151">Microsoft account</text><text x="58" y="367">Java Edition ownership</text><text x="58" y="583">Launch Minecraft</text></g>
+    <g fill="#606677" font-size="23"><text x="58" y="190">Official OAuth, Xbox / XSTS</text><text x="58" y="406">Current entitlement + matching profile</text><text x="58" y="622">Only after all required checks pass</text></g>
+    <text x="32" y="725" fill="#606677" font-size="23">Every launch repeats these checks.</text><text x="32" y="766" fill="#606677" font-size="22">A failed required check stops the launch.</text>
+  </g>
+</svg>
