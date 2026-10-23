@@ -1,31 +1,31 @@
 {
   "application_version": "3.17.0.362",
-  "source_commit": "bba2161fa3c62f4b67e5f49c2d5e396276db60c1",
-  "launcher_sha256": "e5d007d09b590463e06330a510b2fddf24653b819a4e74cbc62602ab88e6a2d6",
+  "source_commit": "05b240c37d72a1caf16a1a0e6bd2b99c4455b262",
+  "launcher_sha256": "adb2fb4e5a3c4f0270bfb986bfe842184ecc57c21742bb0c68a41eb3fdc6ce1d",
   "method": "Direct JavaFX scene captures with an isolated empty profile at 2x render scale",
   "personal_account_data_included": false,
   "pixel_edits": false,
   "screenshots": [
     {
       "file": "launcher-home.png",
+      "bytes": 1546801,
+      "sha256": "0a1a177fe9e130087c81dbee7b34176bbf77247c4517144bbb32f0c2f5bd6744",
       "width": 1632,
-      "height": 1012,
-      "bytes": 1548097,
-      "sha256": "97255bd11124f4e538bbfc9f4d748a6b21b9f7fa3952391f7db44d1ac13d9c3c"
+      "height": 1012
     },
     {
       "file": "account-management.png",
+      "bytes": 1288064,
+      "sha256": "bb1207c4db546044bbc1ced21863bb765a527cc9c2e36ca1311b7e8d8c4c172b",
       "width": 1632,
-      "height": 1012,
-      "bytes": 1287396,
-      "sha256": "3369db21a5828232288a58b093d8eee4141060328420819c8948f4b31aa7e260"
+      "height": 1012
     },
     {
       "file": "microsoft-sign-in.png",
+      "bytes": 964141,
+      "sha256": "99d486187e269d717270be80e1d0d3803263e9f08c7b4f9d46a794298addb911",
       "width": 1632,
-      "height": 1012,
-      "bytes": 962396,
-      "sha256": "dc90804b37da796e92cba263b82ad0f2c37b783f87e444405c3acaa4389c2fbc"
+      "height": 1012
     }
   ],
   "diagrams": [
@@ -34,5 +34,7 @@
     "account-flow-zh-CN.svg",
     "account-flow-mobile-zh-CN.svg"
   ],
-  "diagram_origin": "Project-authored vector illustrations"
+  "diagram_origin": "Project-authored vector illustrations",
+  "distribution_name": "HMCL Desktop",
+  "captured_at_utc": "2026-10-23T03:01:38.964592+00:00"
 }

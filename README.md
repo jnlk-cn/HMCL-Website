@@ -1,4 +1,4 @@
-# HMCL project website
+# HMCL Desktop project website
 
 Static project information for the HMCL desktop distribution independently maintained by XDRi.Club.
 
@@ -6,7 +6,7 @@ Website: https://jnlk-cn.github.io/HMCL-Website/
 
 Project contact: [minemacraft@outlook.com](mailto:minemacraft@outlook.com)
 
-Current release: [build/20261023-4e8cad4](https://github.com/jnlk-cn/HMCL-Desktop/releases/tag/build/20261023-4e8cad4). The [website download section](https://jnlk-cn.github.io/HMCL-Website/#downloads) links to its launcher packages, corresponding source and checksums. Launcher source and release assets remain in the private `jnlk-cn/HMCL-Desktop` repository.
+Current release: [build/20261023-05b240c](https://github.com/jnlk-cn/HMCL-Desktop/releases/tag/build/20261023-05b240c). The [website download section](https://jnlk-cn.github.io/HMCL-Website/#downloads) links to its launcher packages, corresponding source and checksums. Launcher source and release assets are publicly available in [`jnlk-cn/HMCL-Desktop`](https://github.com/jnlk-cn/HMCL-Desktop), under GPLv3 or later with the retained upstream additional terms. Downloads do not require a GitHub account.
 
 This public repository contains the website only, with no analytics, login forms or external scripts. Product image slots contain direct captures of this distribution's standard interface and project-authored authentication diagrams; see [image provenance](assets/README.md).
 
